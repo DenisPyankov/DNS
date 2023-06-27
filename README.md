@@ -5,5 +5,4 @@
 # Пример использования 
 запускаем файл "CDNS.py"
 
-
-
+![1](https://github.com/DenisPyankov/DNS/assets/91528031/0fe95838-3616-477a-bb2d-14bf301b0184)
